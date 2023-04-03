@@ -1,6 +1,6 @@
 #%%
 # The Kachowgarithm 
-# Created by Ved Ballary, Aaron Deo, Noah Stasiuk
+# Created by Ved Ballary, Aaron Deo, Noah Stasuik
 # Created on Apr 3, 2023
 # V1.0.0
 
